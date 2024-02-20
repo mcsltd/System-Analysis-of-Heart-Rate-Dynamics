@@ -2,11 +2,11 @@
 
 To evaluate nonlinear dynamic parameters, the "System Analysis of Heart Rate Dynamics" (SADR) program, utilizing chaos analysis and the short-time Fourier transform (STFT), has proven effective. This program can retrieve data from various file formats, transforming ECG into RR intervals while eliminating artifacts.
 
-![Picture 1](example1.jpg)
+![Picture 1](example1.JPG)
 Figure 1. Example of the program ***SADR.exe*** - construction of RR intervalograms and phase patterns
 
 
-![Picture 2](example2.jpg)
+![Picture 2](example2.JPG)
 Figure 2. Example of the ***SADR-animation.exe*** program - analysis of the ECG signal over time
 
 ***Note №1: The program interface is presented in Russian***
