@@ -1,2 +1,2 @@
 # System-Analysis-of-Heart-Rate-Dynamics
-The “System Analysis of Heart Rate Dynamics” (SAHRD) program with the ability to view RR intervalograms built from electrocardiograms in real time.
+To evaluate nonlinear dynamic parameters, the "System Analysis of Heart Rate Dynamics" (SADR) program, utilizing chaos analysis and the short-time Fourier transform (STFT), has proven effective. This program can retrieve data from various file formats, transforming ECG into RR intervals while eliminating artifacts 
