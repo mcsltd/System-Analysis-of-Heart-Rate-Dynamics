@@ -1,12 +1,13 @@
 # System-Analysis-of-Heart-Rate-Dynamics
-The “System Analysis of Heart Rate Dynamics” (SADR) program with the ability to view RR intervalograms built from electrocardiograms in real time.
+
+To evaluate nonlinear dynamic parameters, the "System Analysis of Heart Rate Dynamics" (SADR) program, utilizing chaos analysis and the short-time Fourier transform (STFT), has proven effective. This program can retrieve data from various file formats, transforming ECG into RR intervals while eliminating artifacts.
 
 ![Picture 1](example1.jpg)
 Figure 1. Example of the program ***SADR.exe*** - construction of RR intervalograms and phase patterns
 
 
 ![Picture 2](example2.jpg)
-Figure 2. Figure 1. Example of the ***SADR-animation.exe*** program - analysis of the ECG signal over time
+Figure 2. Example of the ***SADR-animation.exe*** program - analysis of the ECG signal over time
 
 ***Note №1: The program interface is presented in Russian***
 
@@ -35,3 +36,4 @@ Figure 2. Figure 1. Example of the ***SADR-animation.exe*** program - analysis o
 15. ***Metabolic Equivalent Calculation.exe*** - metabolic equivalent calculation program.
 16. ***Monitoring patients with CHF.exe*** - program for monitoring the trophological status of patients with CHF.
 17. ***Construct Attractor.exe*** - program for constructing attractors of a dynamic system.
+
